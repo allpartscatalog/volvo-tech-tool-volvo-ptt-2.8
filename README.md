@@ -8,13 +8,13 @@ Volvo Premier Tech Tool also know as Volvo Ptt is the official Windows-based com
 
 ## Table of Contents
 
-1. [What is Volvo Tech tool](## What is Volvo Tech tool)
-2. [Why Volvo Tech tool] (## Why Volvo Tech tool)
-3. [Product History] (## Product History)
-4. [Diagnose] (## Diagnose)
-5. [Test] (## Test)
-6. [Calibrate] (## Calibrate)
-7. [program] (## Program)
+1. [What is Volvo Tech tool](##What is Volvo Tech tool)
+2. [Why Volvo Tech tool] (##Why Volvo Tech tool)
+3. [Product History] (##Product History)
+4. [Diagnose] (##Diagnose)
+5. [Test] (##Test)
+6. [Calibrate] (##Calibrate)
+7. [program] (##Program)
    
 ## What is Volvo Tech tool
 
