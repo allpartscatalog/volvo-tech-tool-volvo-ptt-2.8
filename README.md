@@ -5,25 +5,14 @@
 Volvo Premier Tech Tool also know as Volvo Ptt is the official Windows-based computer program developed by Volvo for diagnosing Volvo trucks, buses, construction machinery, UD and MACK.
 
 
-
 ## Table of Contents
-
-- [What is Volvo Tech tool](#What is Volvo Tech tool)
-- [Why Volvo Tech tool] (#Why Volvo Tech tool)
-- [Product History] (#Product History)
-- [Diagnose] (#Diagnose)
-- [Test] (#Test)
-- [Calibrate] (#Calibrate)
-- [program] (#Program)
-- 
-## Table of Contents
-1. [Why Monad?](#What-is-Volvo-Tech-tool)  
-2. [Connect to Monad Testnet](#Why-Volvo-Tech-tool)  
-3. [Get Test Tokens](#Product-History)  
-4. [Deploy Your First Contract](#Diagnose)  
-5. [Interact with Your Contract](#Test)  
-6. [Share & Get Feedback](#Calibrate)  
-7. [Best Practices for Contributing](#Program)  
+1. [What is Volvo Tech tool?](#What-is-Volvo-Tech-tool)  
+2. [Why Volvo Tech tool?](#Why-Volvo-Tech-tool)  
+3. [Product History](#Product-History)  
+4. [Diagnose](#Diagnose)  
+5. [Test](#Test)  
+6. [Calibrate](#Calibrate)  
+7. [program](#Program)  
    
 ## What is Volvo Tech tool
 
