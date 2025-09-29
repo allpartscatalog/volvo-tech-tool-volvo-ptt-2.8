@@ -8,13 +8,22 @@ Volvo Premier Tech Tool also know as Volvo Ptt is the official Windows-based com
 
 ## Table of Contents
 
-- [What is Volvo Tech tool](##What is Volvo Tech tool)
-- [Why Volvo Tech tool] (##Why Volvo Tech tool)
-- [Product History] (##Product History)
-- [Diagnose] (##Diagnose)
-- [Test] (##Test)
-- [Calibrate] (##Calibrate)
-- [program] (##Program)
+- [What is Volvo Tech tool](#What is Volvo Tech tool)
+- [Why Volvo Tech tool] (#Why Volvo Tech tool)
+- [Product History] (#Product History)
+- [Diagnose] (#Diagnose)
+- [Test] (#Test)
+- [Calibrate] (#Calibrate)
+- [program] (#Program)
+- 
+## Table of Contents
+1. [Why Monad?](#What-is-Volvo-Tech-tool)  
+2. [Connect to Monad Testnet](#Why-Volvo-Tech-tool)  
+3. [Get Test Tokens](#Product-History)  
+4. [Deploy Your First Contract](#Diagnose)  
+5. [Interact with Your Contract](#Test)  
+6. [Share & Get Feedback](#Calibrate)  
+7. [Best Practices for Contributing](#Program)  
    
 ## What is Volvo Tech tool
 
